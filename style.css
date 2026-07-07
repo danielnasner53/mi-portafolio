@@ -18,9 +18,8 @@ ul {
     background: white;
     padding: 20px;
     border-radius: 10px;
-}b;
-    font-family: Arial, sans-serif
 }
+   
 
 p {
     font-size: 18px;
@@ -31,20 +30,19 @@ button {
     color: white;
     border: none;
     padding: 12px 20px;
+}
+.tarjeta{
+    background:#f4f4f4;
+    padding:20px;
+    margin-top:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
     border-radius: 8px;
     font-size: 16px;
 }
 
 button:hover {
     background-color: #004c99;
-}
-.tarjeta {
-    background-color: white;
-    max-width: 500px;
-    margin: auto;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 nav{
@@ -66,3 +64,4 @@ nav a{
 nav a:hover{
     color:yellow;
 }
+
