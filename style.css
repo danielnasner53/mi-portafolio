@@ -14,32 +14,18 @@ h2 {
     color: #333333;
 }
 
-p {
-    font-size: 18px;
-    line-height: 1.6;
-}
-
 ul {
     background: white;
     padding: 20px;
     border-radius: 10px;
-}body {
-    background-color: lightblue;
-    font-family: Arial, sans-serif;
-}
-
-h1 {
-    color: darkblue;
-    text-align: center;
+}b;
+    font-family: Arial, sans-serif
 }
 
 p {
     font-size: 18px;
 }
 
-h2 {
-    color: green;
-}
 button {
     background-color: #0066cc;
     color: white;
@@ -51,4 +37,12 @@ button {
 
 button:hover {
     background-color: #004c99;
+}
+.tarjeta {
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
