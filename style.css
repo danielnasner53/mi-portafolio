@@ -1,3 +1,4 @@
+
 body {
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
@@ -38,4 +39,16 @@ p {
 
 h2 {
     color: green;
+}
+button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #004c99;
 }
